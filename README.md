@@ -1,10 +1,13 @@
 # Zero-Fap-Addiction
 This is the repository for my [Playstore App](https://play.google.com/store/apps/details?id=com.goxr3plus.zerxrfaldplezodiambals) .
 
-![image](https://user-images.githubusercontent.com/20374208/157334567-78f6f0d0-129a-488a-bb39-6d0c0785d61c.png)
 
+| Click the image below|
+|:-:|
+| [![First](https://user-images.githubusercontent.com/20374208/157334567-78f6f0d0-129a-488a-bb39-6d0c0785d61c.png)](https://play.google.com/store/apps/details?id=com.goxr3plus.zerxrfaldplezodiambals) |
 
 For the moment i have the screenshots and soon probably i will opensource it so you can benefit from the knowledge i will give for free :)
+
 
 
 | Screen 1 | Screen 2 | Screen 3 | Screen 4

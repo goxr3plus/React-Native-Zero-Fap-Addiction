@@ -1,5 +1,5 @@
-# Quit-Bad-Habit
-This is the repository for my Playstore App you can find it [here](https://play.google.com/store/apps/details?id=com.goxr3plus.zerxrfaldplezodiambals) .
+# Zero-Fap-Addiction
+This is the repository for my [Playstore App](https://play.google.com/store/apps/details?id=com.goxr3plus.zerxrfaldplezodiambals) .
 
 ![image](https://user-images.githubusercontent.com/20374208/157334567-78f6f0d0-129a-488a-bb39-6d0c0785d61c.png)
 

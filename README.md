@@ -2,7 +2,7 @@
 This is the repository for my [Playstore App](https://play.google.com/store/apps/details?id=com.goxr3plus.zerxrfaldplezodiambals) .
 
  
-| Click the image below|
+| Click the image below| 
 |:-:|
 | [![First](https://user-images.githubusercontent.com/20374208/157334567-78f6f0d0-129a-488a-bb39-6d0c0785d61c.png)](https://play.google.com/store/apps/details?id=com.goxr3plus.zerxrfaldplezodiambals) |
 

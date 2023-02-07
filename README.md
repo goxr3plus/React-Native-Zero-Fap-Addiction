@@ -1,3 +1,5 @@
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Q5Q3WBIC)
+
 # Zero-Fap-Addiction
 This is the repository for my [Playstore App](https://play.google.com/store/apps/details?id=com.goxr3plus.zerxrfaldplezodiambals) .
 
